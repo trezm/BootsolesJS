@@ -65,4 +65,5 @@ module.exports = function(grunt) {
     grunt.registerTask('default', ['browserify', 'copy', 'cssmin']);
     grunt.registerTask('build', ['browserify', 'copy', 'cssmin']);
     grunt.registerTask('run', ['build', 'concurrent:dev']);
+    grunt.registerTask('heroku', ['browserify', 'copy', 'cssmin']);
 };
