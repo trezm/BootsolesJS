@@ -6,7 +6,7 @@ NPM and Bower are required to set up this repository, find the instructions to i
 - (If npm is not installed) follow directions here: https://github.com/npm/npm 
 - (If bower is not installed) run `npm install -g bower`
 You'll also need to install grunt;
-- `npm install -g grunt grunt-cli`
+- `sudo npm install -g grunt grunt-cli`
 
 #### To Install:
 - Run the command `npm install`
