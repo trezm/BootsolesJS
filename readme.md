@@ -5,6 +5,8 @@ A template project using NodeJS, MongoDB, and AngularJS
 NPM and Bower are required to set up this repository, find the instructions to install below.
 - (If npm is not installed) follow directions here: https://github.com/npm/npm 
 - (If bower is not installed) run `npm install -g bower`
+You'll also need to install grunt;
+- `npm install -g grunt grunt-cli`
 
 #### To Install:
 - Run the command `npm install`
