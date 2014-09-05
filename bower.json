@@ -2,7 +2,7 @@
 	"name": "BootsolesJS",
 	"version": "0.0.1",
 	"dependencies": {
-	     "angular-latest": "1.3.x",
+	     "angular": "1.3.x",
 	     "angular-animate": "1.3.x",
 	     "angular-cookies": "1.3.x",
 	     "angular-route": "1.3.x",
