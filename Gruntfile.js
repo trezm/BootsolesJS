@@ -47,8 +47,8 @@ module.exports = function(grunt) {
 		minify_and_combine: {
 		    files: {
 			'dist/bootsolesjs.min.css': [
-			    'web/**/*.css', // General CSS
-			    'node_modules/bootstrap/dist/css/bootstrap.min.css' // Bootstrap
+			    'node_modules/bootstrap/dist/css/bootstrap.min.css', // Bootstrap
+			    'web/**/*.css' // General CSS
 			]
 		    }
 		}
